@@ -24,7 +24,11 @@ Projeto desenvolvido durante o semestre 2020/1, utilizando as seguintes técnolo
 -  [ASP.NET Core](https://docs.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-3.1)
 -  [Entity Framework Core](https://docs.microsoft.com/pt-br/ef/core/)
 -  [Swagger](https://swagger.io/)
--  [VS Code](https://code.visualstudio.com/)
+-  [Json.NET](https://www.newtonsoft.com/json)
+-  [ASP.Net MVC](https://www.eduardopires.net.br/2013/08/asp-net-mvc-utilizando-automapper-com-view-model-pattern/)
+-  [JWT](https://jwt.io/)
+-  [Visual Code](https://code.visualstudio.com/)
+-  [Visual Studio](https://visualstudio.microsoft.com/pt-br/)
 
 
 ## Como usar
@@ -60,6 +64,8 @@ $ dotnet tool install --global dotnet-ef
 
 # Inicie
 $ dotnet run
+
+## Documentação da API pode ser vista no endereço http://127.0.0.1:5000/swagger
 
 ```
 
