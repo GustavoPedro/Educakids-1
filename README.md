@@ -25,7 +25,7 @@ Projeto desenvolvido durante o semestre 2020/1, utilizando as seguintes técnolo
 -  [Entity Framework Core](https://docs.microsoft.com/pt-br/ef/core/)
 -  [Swagger](https://swagger.io/)
 -  [Json.NET](https://www.newtonsoft.com/json)
--  [ASP.Net MVC](https://www.eduardopires.net.br/2013/08/asp-net-mvc-utilizando-automapper-com-view-model-pattern/)
+-  [AutoMapper](https://docs.automapper.org/en/stable/Getting-started.html)
 -  [JWT](https://jwt.io/)
 -  [Visual Code](https://code.visualstudio.com/)
 -  [Visual Studio](https://visualstudio.microsoft.com/pt-br/)
