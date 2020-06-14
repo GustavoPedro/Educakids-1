@@ -59,9 +59,6 @@ $ yarn start
 # Acesse a pasta
 $ cd backend
 
-# Instale as dependências
-$ dotnet tool install --global dotnet-ef
-
 # Inicie
 $ dotnet run
 
