@@ -1,7 +1,7 @@
 <h3 align="center">
     <img alt="" src="https://i.imgur.com/adFvP0p.png" />
     <br>
-    <a href="#técnologias">Técnologias</a> | <a href="#como-usar">Como usar</a><br/>
+    <a href="#tecnologias">Tecnologias</a> | <a href="#como-usar">Como usar</a><br/>
 </h3>
 
 <h4 align="center">
@@ -10,8 +10,8 @@
 
 ![App Screenshot](https://i.imgur.com/WUL8Xz5.png)
 
-## Técnologias
-Projeto desenvolvido durante o semestre 2020/1, utilizando as seguintes técnologias:
+## Tecnologias
+Projeto desenvolvido durante o semestre 2020/1, utilizando as seguintes tecnologias:
 
 -  [ReactJS](https://reactjs.org/)
 -  [React Router](https://github.com/ReactTraining/react-router)
